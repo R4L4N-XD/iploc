@@ -14,6 +14,8 @@ Download Apk Termuxnya Disini 🌟
      $ pip install requests  
      $ rm -rf iploc  
      $ git clone https://github.com/R4L4N-XD/iploc
+     $ cd iploc
+     $ python enc_ip.py
 ```
 # MY SOCIAL MEDIA
  ​[![](https://img.shields.io/badge/Youtube-blue?logo=Youtube&logoColor=red&labelColor=white)](https://youtube.com/channel/UCwCRIqqgKIalGxA1lTs6gWg)
